@@ -13,6 +13,7 @@
 - b. [**dbconfig-operator**](https://github.com/Operator-Learning-Playground/dbconfig-operator) : 简易型数据库配置控制器
 - c. [**message-operator**](https://github.com/Operator-Learning-Playground/message-operator): 简易型消息下发控制器
 - d. [**inspect-operator**](https://github.com/Operator-Learning-Playground/inspect-operator) : 简易型巡检控制器
+- e. [**cluster-config-operator**](https://github.com/Operator-Learning-Playground/cluster-config-operator) : 简易型集群配置文件控制器
 
 
 
